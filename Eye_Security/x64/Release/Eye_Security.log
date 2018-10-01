@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.cpp(330): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+c:\users\sc3\desktop\eyesys_최종버전\eye_security\eye_security\main.cpp(372): warning C4715: 'EyeTrackingFunction': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  17 of 999 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Eye_Security.vcxproj -> C:\Users\SC3\Desktop\Eyesys_최종버전\Eye_Security\x64\Release\Eye_Security.exe
+  Eye_Security.vcxproj -> C:\Users\SC3\Desktop\Eyesys_최종버전\Eye_Security\x64\Release\Eye_Security.pdb (Full PDB)
